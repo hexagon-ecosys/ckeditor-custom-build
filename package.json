@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor5-ecosys-build",
+  "name": "ckeditor-custom-build",
   "author": "CKSource",
   "description": "A custom CKEditor 5 build for Ecosys.",
   "version": "0.0.1",
